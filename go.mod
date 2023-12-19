@@ -93,3 +93,5 @@ require (
 	modernc.org/memory v1.7.1 // indirect
 	modernc.org/sqlite v1.25.0 // indirect
 )
+
+replace github.com/owasp-amass/amass/v4 v4.2.0 => github.com/zavr1k/amass_no_google/v4 v4.2.0
